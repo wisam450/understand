@@ -6,7 +6,7 @@
   "scripts": {
     "deploy": "gh-pages -d understanding"
   },
-  "homepage": "https://github.com/wisam450/understand.git",
+  "homepage": "https://wisam450.github.io/understand/",
   "keywords": [],
   "author": "Wisam",
   "license": "ISC",
