@@ -1,0 +1,16 @@
+{
+  "name": "hallo-reapepiting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d understanding"
+  },
+  "homepage": "https://github.com/wisam450/understand.git",
+  "keywords": [],
+  "author": "Wisam",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
